@@ -12,3 +12,5 @@ average = sum(numbers) / len(numbers)
 
 print("Numbers:", numbers)
 print("Average:", average)
+
+print("I successfully connected GitHub to Northwestern Quest!")
